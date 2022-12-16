@@ -156,8 +156,8 @@ class Header
 			#new_results_hash[key] = {value: analyse["value"], um: analyse["units"]}
 
 
-			#bench_number = order["id"]
-			bench_number = "5026102022"
+			arr = order["id"].split("^^^^") 
+			bench_number = arr[0]
 
 			results = order["results"]
 
