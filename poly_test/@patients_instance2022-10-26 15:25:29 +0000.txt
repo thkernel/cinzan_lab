@@ -1,0 +1,1 @@
+[#<Patient:0x000055de1fa80950 @sequence_number=1, @patient_id=nil, @orders=[#<Order:0x000055de1fa7b248 @id="2/26", @priority=nil, @sequence_number=nil, @tests=nil, @specimen_type=nil, @date_time=nil, @action_code=nil, @results={"PSA"=>#<Result:0x000055de1fa79240 @alternate_lis_codes=[], @name="PSA", @report_name="PSA", @flags="N", @value="0.867", @dilution=nil>}>]>]

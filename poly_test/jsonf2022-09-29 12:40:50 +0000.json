@@ -1,0 +1,25 @@
+{"@patients":[
+	{
+		"sequence_number":1,
+		"patient_id":null,
+		"orders":[
+			{
+				"id":"1/29",
+				"priority":null,
+				"sequence_number":null,
+				"tests":null,
+				"specimen_type":null,
+				"date_time":null,
+				"action_code":null,
+				"results":{
+					"TSH":{
+					"alternate_lis_codes":[],
+					"name":"TSH",
+					"report_name":"TSH",
+					"flags":"H",
+					"value":"4.628",
+					"dilution":null
+				}
+			}
+		}
+	]}],"@queries":[],"@response_sent":false,"@machine_name":"Maglumi User","@protocol":"ASTM"}

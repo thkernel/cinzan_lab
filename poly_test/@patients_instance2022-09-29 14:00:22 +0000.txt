@@ -1,0 +1,1 @@
+[#<Patient:0x0000561832012b10 @sequence_number=1, @patient_id=nil, @orders=[#<Order:0x0000561832012318 @id="10/29", @priority=nil, @sequence_number=nil, @tests=nil, @specimen_type=nil, @date_time=nil, @action_code=nil, @results={"TSH"=>#<Result:0x0000561832011788 @alternate_lis_codes=[], @name="TSH", @report_name="TSH", @flags="N", @value="1.513", @dilution=nil>}>]>]
